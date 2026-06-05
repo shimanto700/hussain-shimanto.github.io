@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Shimanto's Portfolio"
 title_separator          : "-"
 name                     : &name "Hussain Abdulah Saleh Shimanto"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Electrical and Electronics Engineering Graduate | Embedded Systems, AI & IoT Enthusiast"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1741428274606.jpeg"
   name             : Hussain Abdulah Saleh Shimanto
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Electrical and Electronic Engineering graduate with a strong interest in hardware and software development, simulation-based analysis, embedded systems, AI, IoT, and real-world engineering projects. Passionate about leveraging technology, research, and innovation to develop sustainable solutions for complex engineering challenges"
+  location         : "Dhaka, Bangladesh"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hussainshimanto715@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "shimanto700"
+  kaggle           :  "hussainshimanto" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/hussain-shimanto"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
